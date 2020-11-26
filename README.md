@@ -1,4 +1,5 @@
 # distributeur de médicaments
+Projet dans le cadre du cours de IOT à l'USPN 
 
 Projet : fabriquer un distributeur de médicaments qui permet à un ou plusieurs utilisateurs de prendre leurs médicaments.
 
@@ -11,3 +12,5 @@ public visé ? Tout le monde ayant à prendre quelconque médicament quotidienne
     une personne âgée qui a tendance à oublier ses médicaments
 
     un adulte prenant des compléments alimentaires...
+
+    un adolescent voulant prendre ses médicaments tout seul
