@@ -14,3 +14,4 @@ public visé ? Tout le monde ayant à prendre quelconque médicament quotidienne
     un adulte prenant des compléments alimentaires...
 
     un adolescent voulant prendre ses médicaments tout seul
+   je fais une modification
