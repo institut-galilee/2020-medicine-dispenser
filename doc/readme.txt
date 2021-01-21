@@ -9,3 +9,6 @@ par Sara : - Le montage et la vidéo
 	   - Une partie de la présentation
 par Hugo : - Le code sur Arduino
 	   - Le montage hardware
+
+Voici le lien pour la vidéo sur Youtube : 
+https://youtu.be/_M07UuxuHo4
